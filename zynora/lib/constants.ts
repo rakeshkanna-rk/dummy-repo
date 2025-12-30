@@ -1,0 +1,62 @@
+export const events = [
+  {
+    id: 1,
+    title: 'The Heist Protocol',
+    inspiration: 'Money Heist',
+    description: 'Strategy games, group challenges, puzzle cracking',
+    image: 'https://images.unsplash.com/photo-1655534061610-0ef4293204cf',
+    color: 'red',
+    symbols: ['mask', 'code', 'vault'],
+  },
+  {
+    id: 2,
+    title: 'The Red Light Trial',
+    inspiration: 'Squid Game',
+    description: 'Competitive games, elimination rounds',
+    image: 'https://images.pexels.com/photos/6136096/pexels-photo-6136096.jpeg',
+    color: 'red',
+    symbols: ['circle', 'triangle', 'square'],
+  },
+  {
+    id: 3,
+    title: 'The Iron Throne Challenge',
+    inspiration: 'Game of Thrones',
+    description: 'Debate, leadership, team domination events',
+    image: 'https://images.pexels.com/photos/940019/pexels-photo-940019.jpeg',
+    color: 'gold',
+    symbols: ['crown', 'sword', 'dragon'],
+  },
+  {
+    id: 4,
+    title: 'The Upside Rift',
+    inspiration: 'Stranger Things',
+    description: 'Mystery games, horror quiz, escape-style events',
+    image: 'https://images.unsplash.com/photo-1602654435744-6e9b86a3d72c',
+    color: 'blue',
+    symbols: ['neon', 'portal', 'monster'],
+  },
+  {
+    id: 5,
+    title: 'The Black Pearl Quest',
+    inspiration: 'Pirates of the Caribbean',
+    description: 'Treasure hunt, adventure challenges',
+    image: 'https://images.unsplash.com/photo-1572314997669-275cf96124fc',
+    color: 'blue',
+    symbols: ['compass', 'treasure', 'ship'],
+  },
+  {
+    id: 6,
+    title: 'The Blue Lab Experiment',
+    inspiration: 'Breaking Bad',
+    description: 'Logic games, science-based fun, problem solving',
+    image: 'https://images.pexels.com/photos/8532850/pexels-photo-8532850.jpeg',
+    color: 'blue',
+    symbols: ['flask', 'formula', 'crystal'],
+  },
+];
+
+export const taglines = [
+  'Enter the Stories. Live the Legends.',
+  'Where Cinema Meets Celebration.',
+  'A Night Inspired by Icons.',
+];
